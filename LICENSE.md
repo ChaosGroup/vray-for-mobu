@@ -5,7 +5,6 @@ LICENSE AGREEMENT
 
 ### ACCESSIBLE SOURCE CODE WITHOUT DISTRIBUTION OF MODIFICATION LICENSE
 
- 
 
 ### IMPORTANT - PLEASE READ CAREFULLY:
 
@@ -79,7 +78,7 @@ non-exclusive, non-sublicensable right and license:
 
 2.1. LICENSEE may not:
 
-    2.1.1. Distribute LICENSEE's Modifications or make them accessible to any
+    2.1.1. distribute LICENSEE's Modifications or make them accessible to any
     third parties. Upon LICENSEE's discretion, LICENSEE may make the
     Modification available to COMPANY, so that the COMPANY may include
     LICENSEE's Modifications in THE PRODUCT, in which case LICENSEE hereby
@@ -87,13 +86,13 @@ non-exclusive, non-sublicensable right and license:
     display or perform to the public, license and distribute and use in any
     other way LICENSEE's Modifications upon its own discretion at any time.
 
-    2.1.2. Remove or alter any copyright or other proprietary notice from THE
+    2.1.2. remove or alter any copyright or other proprietary notice from THE
     PRODUCT;
 
-    2.1.3. Use THE PRODUCT in a manner that infringes any third party's
+    2.1.3. use THE PRODUCT in a manner that infringes any third party's
     copyrights or any other rights;
 
-    2.1.4. Participate in any illegal, deceptive, misleading or unethical
+    2.1.4. participate in any illegal, deceptive, misleading or unethical
     practices and activities, which may be detrimental to COMPANY or THE
     PRODUCT;
 
@@ -258,4 +257,4 @@ trademarks belong to their respective holders.
 sent by postal service, delivery service, or email. Notices will be effective
 when delivered and received by COMPANY at COMPANY'S head office address, which
 currently is: Chaos Software Ltd., Mladost-1A, 147, Tsarigradsko shosse, 4th
-floor, 1784 Sofia, Bulgaria, email: contracts\@chaosgroup.com.
+floor, 1784 Sofia, Bulgaria, email: contracts@chaosgroup.com.
