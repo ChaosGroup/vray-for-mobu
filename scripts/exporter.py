@@ -391,6 +391,9 @@ class VRay4MobuExporter(object):
             uvs = model.Geometry.GetUVSetDirectArray(name)
             indices = model.Geometry.GetUVSetIndexArray(name)
             if not model.Geometry.IsTriangleMesh():
+                if not indices:
+                    mc_index += 1
+                    continue
                 orig_indices = indices
                 del indices
                 indices = []
